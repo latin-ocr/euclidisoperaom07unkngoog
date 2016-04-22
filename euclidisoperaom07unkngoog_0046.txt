@@ -1,0 +1,45 @@
+ELEMENTORUM LIBERI. 33
+
+XI.
+
+Ad datam rectam a dato puncto in ea sito rectam
+perpendicularem erigere.
+
+Sit data recta AB, punctum autem datum in ea ⁴
+situm Γ. oportet igitur a Γ puncto rectae AB per·
+pendicularem rectam erigere.
+
+sumatur in AF quoduis punctum A, et ponatur
+
+ΓΕ = ΓΔ [prop.Il], et in ΔΕ
+
+Ζ triangulus aequilaterus const ·
+
+ι atur ΖΔΕ [prop. I], et duca-
+tur ΖΓ. dico, ad datam rectam
+
+Α JAB 'a dato puncto in ea sito
+
+Δ Γ 11¹ Fperpendicularem erectam esse
+rectam lineam ΖΓ.
+
+nam quoniam Ar= ΓΕ et communis ΓΖ, duae
+rectae ΛΓ, ΓΖ duabus ΕΓ, ΓΖ aequales sunt altera
+alteri3 et basis ΔΖ basi ZE aequalis est. itaque
+[ΔΓΖ = ΕΓΖ [prop.VIII]3 et deinceps sunt positi.
+ubi autem recta super rectam lineam erecta angulos
+deinceps positos inter se aequales efficit, rectus est
+
+uterque angulus aequalis [del. 101. itaque ΔΓΖ, ΖΓΕ
+recti sunt.
+Ergo ad datam rectam AB a dato puncto in ea
+
+sito Γ perpendicularis recta linea ducta est ΓΖ; quod
+oportebat fieri.
+
+XI. Boetius p. 381, 4.
+
+Euclides, edd. Heiberg et Mense.
+
+ 
+
